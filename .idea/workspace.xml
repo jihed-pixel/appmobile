@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35e1a688-1337-4907-b595-05a19bbcb093" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.expo-shared/assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackCovid19Back/.dockeringnore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackCovid19Back/dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/ExamRadioParaCli/TdmTho.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/ExamRadioParaCli/TdmTho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/Exam_Bio/BilanHepa.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/Exam_Bio/BilanHepa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/Exam_Bio/Ionogra.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/Exam_Bio/Ionogra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/ExamenCli.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/ExamenCli.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/GeneralInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/GeneralInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/traitement/Dosage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/PatientParts/traitement/Dosage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/AddPatient.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/AddPatient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/ExamBioModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/ExamBioModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/ExamRadioParaCliModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/ExamRadioParaCliModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/ExamenCliModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/ExamenCliModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/TraitementModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/java/com/yobitrust/HachCovid19Back/Models/RequestModels/TraitementModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackCovid19Back/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HackCovid19Back/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k8j6o1FVHJ3kRnjMD5IQsBms45" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HackCovid19Back" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e1a688-1337-4907-b595-05a19bbcb093" name="Default Changelist" comment="" />
+      <created>1605088939803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605088939803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605088956443">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1605088956443" />
+  </component>
+</project>
